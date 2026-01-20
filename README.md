@@ -32,7 +32,7 @@
     </a>
   </p>
 
-  <h3>اللغات - الأدوات - الأنظمة - Languages - Tools - Systems:</h3>
+  <h3>اللغات - الأدوات - الأنظمة - Languages - Tools - Systems</h3>
   <p>
     <a href="https://www.electronjs.org/" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Electron_Software_Framework_Logo.svg" alt="Electron" width="45" height="45"/>
