@@ -15,6 +15,13 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=S7TN&show_icons=true&theme=radical&hide_border=true&locale=en&layout=compact" alt="S7TN Languages" />
   </p>
 
+  <h3>لدعم المطور - Support Dev</h3>
+  <p>
+    <a href="https://www.buymeacoffee.com/stlh" target="_blank">
+      <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="210" />
+    </a>
+  </p>
+
   <h3>Accounts:</h3>
   <p>
     <a href="https://linktr.ee/S7TN" target="_blank">
